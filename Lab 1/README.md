@@ -10,11 +10,15 @@ During this lab we will use the user interface of weka
 <br><br>
 
 <img src='screenshots/home.png'>
-<br><br>
+<br>
 Make sure to copy the content of (C:\Program Files\Weka-3-8\data) in your working directory: we will need it in this lab
 
 Choose the explorer: 6 options are available:
 <br><br>
 <img src='screenshots/explorer.png'>
+
+Data format is ARFF (Attribute-Relation File Format)
+
+click open file in Preprocess:
 
 
