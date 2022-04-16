@@ -77,3 +77,17 @@ We can visualize the decision tree (right click on model name)
 
 # Preprocessing Data
 
+open bank-data.arff
+
+
+<br>
+Weka include many filters that can be used before invoking a classifier to clean up the dataset, or alter it in some way. Filters help with data preparation.
+
+<br>
+
+Attribute selection is a supervised attribute filter that can be used to select attributes. It is very flexible and allows various search and evaluation methods to be combined.
+
+<br>
+Discretize filter is an instance filter that discretizes a range of numeric attributes in the dataset into nominal attributes. Discretization is by simple binning.
+
+
