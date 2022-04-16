@@ -19,6 +19,34 @@ Choose the explorer: 6 options are available:
 
 Data format is ARFF (Attribute-Relation File Format)
 
-click open file in Preprocess:
+click open file in Preprocess and choose any dataset from the data files. We chose weather.nominal.arff
+<br><br>
+<img src='screenshots/Weather.png'>
+
+
+Weka helps in the visualization of the data and the different outcomes of mixing attributes.
+
+You can try selecting different attributes and using the ALL,NONE,INVERT options..
+
+
+ **iris.arff** is the most used dataset for data mining researchs.
+
+ The data set contains 3 classes of 50 instances each, where each class refers to a type of iris plant.
+
+ <br>
+<img src='screenshots/iris.png'>
+
+
+
+Go to the visualize window, you can see 25 graphics combinig each 2 attributes with the classes colored.
+
+<br>
+<img src='screenshots/visualize-iris.png'>
+
+
+The lab suggests that we choose petal width as X and sepal length as Y:
+<br>
+
+<img src='screenshots/XY.png'>
 
 
