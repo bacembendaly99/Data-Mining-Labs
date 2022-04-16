@@ -10,5 +10,5 @@ Now we will launch an experience on 3 datasets: Iris , Weather and Glass. We wil
 
 The outcome of the experimenter is in the result.csv file.
 
-
+The rest of the lab : [Here](https://github.com/bacembendaly99/Data-Mining-Labs/blob/main/Lab%202/work.ipynb)
 
